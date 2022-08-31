@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # Three.js Journey
 
 ## Setup
